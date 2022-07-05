@@ -1,1 +1,1 @@
-# Snake-Game-Deep-Reinforcement-Learning
+# Snake Game - Deep Reinforcement Learning
